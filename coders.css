@@ -1,0 +1,97 @@
+img {
+  height: 200px;
+  width: 200px;
+}
+
+.text {
+  font-family: 'Inconsolata', monospace
+}
+
+.hayley {
+  margin: 20px;
+  position: absolute;
+}
+
+.name1{
+  margin-left: 90px;
+  margin-top: 190px;
+  position: absolute;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+  font-weight: bold;
+}
+
+.frida{
+  margin-left: 250px;
+  margin-top: 20px;
+  position: absolute;
+}
+
+.name2{
+  margin-left: 350px;
+  margin-top: 190px;
+  position: absolute;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+  font-weight: bold;
+}
+
+.emma{
+  margin-left: 475px;
+  margin-top: 20px;
+  position: absolute;
+}
+
+.name3{
+  margin-left: 580px;
+  margin-top: 190px;
+  position: absolute;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+  font-weight: bold;
+}
+
+.amy{
+  margin-left: 20px;
+  margin-top: 250px;
+  position: absolute;
+}
+
+.name4{
+  margin-left: 115px;
+  margin-top: 420px;
+  position: absolute;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+  font-weight: bold;
+}
+
+.dani{
+  margin-left: 250px;
+  margin-top: 250px;
+  position: absolute;
+}
+
+.name5{
+  margin-left: 310px;
+  margin-top: 420px;
+  position: absolute;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+  font-weight: bold;
+}
+
+.pina{
+  margin-left: 475px;
+  margin-top: 250px;
+  position: absolute;
+}
+
+.name6{
+  margin-left: 580px;
+  margin-top: 420px;
+  position: absolute;
+  color: white;
+  font-family: 'Inconsolata', monospace;
+  font-weight: bold;
+}
